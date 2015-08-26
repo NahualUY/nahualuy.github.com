@@ -1,5 +1,7 @@
 # README
 
+Sitio de Encuentros
+
 ## Instalación
 
-    bower install
+  ---
