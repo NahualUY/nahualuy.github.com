@@ -144,3 +144,8 @@ body {
     width: 700px;
   }
 }
+
+.panel-default>.panel-heading{
+  background-color: rgba(131, 193, 60, 0.61);
+  border-bottom: none;
+}
